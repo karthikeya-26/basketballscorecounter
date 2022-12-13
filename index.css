@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+}
+
+.container {
+    display: flex;
+
+    justify-content: space-around;
+    background-color: darkolivegreen;
+    padding: 45px ;
+    
+}
+.button {
+    background-color: lawngreen;
+}
